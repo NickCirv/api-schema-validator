@@ -1,0 +1,36 @@
+{
+  "name": "api-schema-validator",
+  "version": "1.0.0",
+  "description": "Validate JSON against JSON Schema Draft-7. Pipe from curl. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "api-schema-validator": "./index.js",
+    "jsv": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "json-schema",
+    "validation",
+    "api",
+    "openapi"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/api-schema-validator.git"
+  },
+  "homepage": "https://github.com/NickCirv/api-schema-validator#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/api-schema-validator/issues"
+  }
+}
