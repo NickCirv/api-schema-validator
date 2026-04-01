@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # api-schema-validator
 
 > Validate JSON against JSON Schema. Pipe from curl. Zero dependencies.
