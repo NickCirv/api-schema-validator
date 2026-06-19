@@ -24,6 +24,9 @@
     "api",
     "openapi"
   ],
+  "scripts": {
+    "test": "node --test"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
